@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm MHX, new to programming. Currently going to an IT school, year 1.
 
-### More Information
+### More Information:
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### My Links:
 
-[email@domain.com](mailto:email@domain.com)
+[Linktree](https://linktr.ee/notmhx)
